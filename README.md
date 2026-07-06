@@ -25,6 +25,46 @@ Nutrite is a modular management system that allows administrators to manage the 
 The application is divided into independent modules, each responsible for a specific business area, making the code easier to understand and extend.
 
 ---
+## 🏗️ Backend Architecture
+
+```mermaid
+flowchart LR
+
+User["👤 User"]
+
+Main["main.py"]
+
+Menu["submenus.py"]
+
+Clientes["clientes.py"]
+
+Proveedores["proveedores.py"]
+
+Articulos["articulos.py"]
+
+Ventas["ventas.py"]
+
+DB["Bd_Nutrite.py"]
+
+Maria[(MariaDB)]
+
+User --> Main
+
+Main --> Menu
+
+Menu --> Clientes
+Menu --> Proveedores
+Menu --> Articulos
+Menu --> Ventas
+
+Clientes --> DB
+Proveedores --> DB
+Articulos --> DB
+Ventas --> DB
+
+DB --> Maria
+```
+---
 
 # 💡 Business Context
 
