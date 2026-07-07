@@ -1,5 +1,11 @@
 **Read this in other languages:** [Español](README.es.md)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![MariaDB](https://img.shields.io/badge/MariaDB-Database-blue?logo=mariadb)
+![MySQL](https://img.shields.io/badge/MySQL-Compatible-blue?logo=mysql)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Backend](https://img.shields.io/badge/Architecture-Modular-orange)
+
 > 💡 **Note**
 >
 > The application automatically creates the database, tables and initial records on first execution, making the setup process much simpler.
