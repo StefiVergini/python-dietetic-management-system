@@ -1,5 +1,11 @@
 **Read this in other languages:** [English](README.md)
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![MariaDB](https://img.shields.io/badge/MariaDB-Database-blue?logo=mariadb)
+![MySQL](https://img.shields.io/badge/MySQL-Compatible-blue?logo=mysql)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Backend](https://img.shields.io/badge/Architecture-Modular-orange)
+
 > 💡 **Nota**
 >
 > Esta aplicación crea automáticamente la base de datos, tablas y los registros iniciales durante la primera ejecución del sistema. Hace que el proceso de configuración sea mucho más simple. 
