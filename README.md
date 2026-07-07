@@ -36,13 +36,13 @@ Main["main.py"]
 
 Menu["submenus.py"]
 
-Clientes["clientes.py"]
+Customers["clientes.py"]
 
-Proveedores["proveedores.py"]
+Suppliers["proveedores.py"]
 
-Articulos["articulos.py"]
+Items["articulos.py"]
 
-Ventas["ventas.py"]
+Sales["ventas.py"]
 
 DB["Bd_Nutrite.py"]
 
