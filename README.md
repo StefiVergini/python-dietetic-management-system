@@ -52,15 +52,15 @@ User --> Main
 
 Main --> Menu
 
-Menu --> Clientes
-Menu --> Proveedores
-Menu --> Articulos
-Menu --> Ventas
+Menu --> Customers
+Menu --> Suppliers
+Menu --> Items
+Menu --> Sales
 
-Clientes --> DB
-Proveedores --> DB
-Articulos --> DB
-Ventas --> DB
+Customers --> DB
+Suppliers --> DB
+Items --> DB
+Sales --> DB
 
 DB --> Maria
 ```
