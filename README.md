@@ -1,6 +1,6 @@
 **Read this in other languages:** [Español](README.es.md)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![MariaDB](https://img.shields.io/badge/MariaDB-Database-blue?logo=mariadb)
 ![MySQL](https://img.shields.io/badge/MySQL-Compatible-blue?logo=mysql)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
